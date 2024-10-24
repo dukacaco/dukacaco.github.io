@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://dukacaco.github.io/sitemap/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/mPC/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/obh/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/pre/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/Ixo/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/mAZ/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/veA/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/AOe/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/EvX/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/btB/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/lfP/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/oCg/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/rVa/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/hod/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/Cbu/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/HLh/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/JPW/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/Svw/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/YGB/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/RiX/sitemap_index.dukacaco
+Sitemap: https://dukacaco.github.io/DsW/sitemap_index.dukacaco
